@@ -1,11 +1,11 @@
 package com.abdul.studentcoursemanagement.utils;
 
 /*
-Author Name: romail.ahmed
+Author Name: Abdul.Fatah
 
-Project Name: configurations
+Project Name: studentcoursemanagement
 
-Package Name: com.mfs.configurations.controller.blacklist
+Package Name: com.abdul.studentcoursemanagement.utils
 
 Class Name: JWTSecurity
 
