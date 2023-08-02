@@ -1,12 +1,13 @@
 # student-course-management
 
 + Using Technologies
-  - JDK 13
+  - JDK 11+
   - Spring boot 2.7.9
   - MySql
   - Exception Handling
   - Jwt Authentication
   - Swagger
+  - Spring Profiles (Dev-Test-Prod)
  
 + Attached screenshots.
 
